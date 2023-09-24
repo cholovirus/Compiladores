@@ -1,0 +1,35 @@
+$Este es un comentario de una sola linea
+
+$ Definir Funciones
+def sumarMatrix(){
+  $ Declaracion de una Matrix de 
+  int A:4:3: = {3,2,2,3 , 2,2,2,2 , 1,1,1,1};
+  int C:4:3: = {3,2,2,3 , 2,2,2,2 , 1,1,1,1};
+  float B:2:4 = {1,1 , 2,2 ,3,3 , 4,4};
+  result A+C;
+}
+$ Declarar variables y se aplica Estamento IF
+int comen1 =4; 
+simon (5 <= comen1 && False){
+  
+}resimon((coment1 == 4)){
+  
+}nel{
+  coment1=100;
+}
+
+$ For Parecido al de c++, fila funciona como i, fin hasta donde llega
+for (i:llega<32:abajoFIFI){
+  $ imprimir valores
+  print(i);
+}
+$for(matrix) recorrer matrices de manera mas sencilla
+for (sumarMatrix()){
+  
+}
+$ Test de Comentario de Varias lineas
+# float pepe =4+5*902/832
+int indice = [3,4,5,1,4,343]
+bool chanchito = True
+#
+
